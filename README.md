@@ -1,6 +1,6 @@
 # Carlos E. Jaramillo P.
 
-### Data Analyst Jr | Business & Marketing Analytics
+### Data Analyst Jr | Business & Marketing Analytics 📊
 
 📍 Bogotá, Colombia  
 
@@ -40,7 +40,7 @@ Actualmente estoy estudiando/trabajando en:
 ---
 
 ## 📊 Projects
-Algunos de los proyectos que he desarrollado incluyen:
+Algunos de los proyectos en los que he trabajado incluyen:
 
 - **Análisis de churn en telecomunicaciones**  
   Modelado predictivo para identificar clientes con alta probabilidad de cancelación.
