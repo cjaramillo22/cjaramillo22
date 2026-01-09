@@ -27,20 +27,15 @@ Actualmente estoy trabajando en:
 
 ## 🛠️ Tech Stack
 
-**Lenguajes**
-- SQL  
-- Python  
-
-**Librerías & Herramientas**
-- Pandas  
-- NumPy  
-- Matplotlib / Seaborn  
-- Scikit-learn  
-- Jupyter Notebook  
-- Git / GitHub  
-- Excel  
-- Tableau  
-- Power BI  
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-000000?style=for-the-badge&logo=sas&logoColor=white)
 
 ---
 
