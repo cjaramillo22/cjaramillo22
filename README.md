@@ -76,6 +76,9 @@ Busco oportunidades como:
 - 📧 Email: **cejp9805@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/c-jaramillo-dataanalyst](https://www.linkedin.com/in/c-jaramillo-dataanalyst/)
 
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cejp9805@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-jaramillo-dataanalyst/)
+
 ---
 
 ⭐ Siempre abierto a aprender, mejorar y colaborar en proyectos relacionados con análisis de datos.
