@@ -15,7 +15,7 @@ Me motiva entender **qué dicen los datos**, **por qué sucede** y **cómo puede
 ---
 
 ## 🔍 Now
-Actualmente estoy trabajando en:
+Actualmente estoy estudiando/trabajando en:
 - Análisis de datos con **SQL y Python**
 - Construcción de **dashboards** en Tableau y Power BI
 - Análisis exploratorio de datos (EDA)
